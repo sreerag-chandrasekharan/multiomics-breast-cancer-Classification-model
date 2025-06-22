@@ -1,4 +1,4 @@
-# Multi-Omics Analysis Made Easy: A Breast Cancer Example
+# Multi-Omics Model: A Breast Cancer Example
 
 This document provides an overview of multi-omics analysis techniques using breast cancer as a case study.
 
